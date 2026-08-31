@@ -1,0 +1,16 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Maven (por si se compila algo en la raíz)
+target/
+*.class
+
+# Datos sensibles / configuración local
+*.env
+application-local.properties
